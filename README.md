@@ -1,8 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Christian Raquid
-- 👀 I’m interested in React, PHP, Laravel, node and other Web Technologies
+- 👀 I’m interested in React, PHP, Laravel, Spring Boot, Node and other Web Technologies
 - 🌱 I’m currently learning ReactJS, Laravel, Docker and AWS
-- 🌱 I’m also currently learning MERN Stack
 - 💞️ I’m looking to collaborate on developing applications that is related to Web
 - 📫 How to reach me: crraquid@gmail.com
 - You check my portfolio website: [moneydash.github.io/about-me/](https://moneydash.github.io/about-me/)
