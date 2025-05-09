@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS, Laravel, Docker, AWS and Typescript
 - 💞️ I’m looking to collaborate on developing applications that is related to Web and Mobile
 - 📫 How to reach me: crraquid@gmail.com
-- You check my portfolio website: moneydash.github.io/about-me/
+- You check my portfolio website: https://moneydash.github.io/about-me/
 
 
 ## 🌐 Socials:
