@@ -56,8 +56,6 @@ const christian = {
 | 📦 **Inventory System** | Inventory management with ERP-style features and JWT auth | Laravel · React · MySQL · MUI · Ant Design |
 | 📰 **Presidential Tech Briefing** | Automation that curates a weekly tech-news digest and emails it every Friday | Google Apps Script |
 
-> 🛠️ **In the works:** a multi-channel inventory sync — one master stock count kept in sync across Shopee, Lazada, Facebook, and a storefront.
-
 ---
 
 ## 🧰 Tech Stack
