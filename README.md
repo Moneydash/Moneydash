@@ -1,27 +1,118 @@
-# 💫 About Me:
-- 👋 Hi, I’m Christian Raquid
-- 👀 I’m interested in React, PHP, Laravel, Spring Boot, Node and other Web Technologies
-- 🌱 I’m currently learning ReactJS, Python, Laravel, Docker, AWS and Typescript
-- 💞️ I’m looking to collaborate on developing applications that is related to Web and Mobile
-- 📫 How to reach me: crraquid@gmail.com
-- You check my portfolio website: https://moneydash.github.io/about-me/
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christian+Raquid+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Backend-heavy.+Product-minded.;Building+web%2C+mobile+%26+AI-powered+apps" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kuysraks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christianraquid) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kuysraks) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kuysraks) 
+**Full Stack Developer from the Philippines 🇵🇭 · Microservices · Web · Mobile · Automation**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moneydash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Moneydash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moneydash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moneydash.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://moneydash.github.io/about-me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christianraquid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christianraquid)
+[![Email](https://img.shields.io/badge/Email-crraquid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crraquid@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Moneydash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20new%20opportunities%20%7C%20Remote%20%26%20Relocation-22C55E?style=flat-square)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/crraquida) 
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Full Stack Developer** with a strong backend foundation in **PHP, Java, Python, and Node.js**, now shipping across the whole stack — from microservices and databases to React/Next.js frontends and Flutter/React Native mobile apps.
+
+Most recently I worked on a **production order management system for one of the Philippines' largest retail groups**, built on a microservices architecture:
+
+- ⚙️ Built and maintained services in **Node.js, C# .NET, and PostgreSQL**, with **Next.js** on the frontend
+- 📦 Shipped warehouse-floor **Picker (single & batched orders) and Packer** mobile-view modules plus operational reports
+- 🩺 Diagnosed **PostgreSQL connection exhaustion** caused by pool misconfiguration across services
+- ☁️ Troubleshot **AWS** infrastructure (502s, IAM Identity Center/SSO access) and data reconciliation at the SKU level
+- 🔀 Worked in a disciplined **Git Flow** release process with Jira-driven delivery
+
+Outside of work I build a lot — self-hosted AI tools, automation pipelines with **n8n**, and mobile apps published to the **Google Play Store** as a solo developer.
+
+```ts
+const christian = {
+  role: "Full Stack Developer",
+  location: "Philippines 🇵🇭 — open to remote & relocation",
+  backend: ["Node.js", "NestJS", "Express", "Laravel", "Spring Boot", ".NET", "Flask"],
+  frontend: ["React", "Next.js", "TanStack", "TypeScript"],
+  mobile: ["Flutter", "React Native / Expo"],
+  data: ["PostgreSQL", "MySQL", "MongoDB", "pgvector", "Prisma"],
+  currentlyExploring: ["AI agents & RAG", "n8n automation", "Web3"],
+  spokenLanguages: ["English", "Filipino", "German (A2)"],
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📚 **Footnote** | Self-hosted RAG app — chat with your own documents and get streamed, source-cited answers from local models, with optional web search | n8n · Next.js · PostgreSQL + pgvector · Ollama · SearXNG · Docker |
+| 🏫 **School Management System** | Full school platform with real-time features and hardened security (AES-256-GCM proxy, Helmet, rate limiting, XSS sanitization) | Next.js 16 · NestJS 11 · Prisma 7 · PostgreSQL · Socket.IO · TanStack Query · Zustand |
+| 📄 **ResumeForge** | Resume & cover letter builder with multiple templates, PDF export, and Google/GitHub sign-in | React 19 · Vite · Express · MySQL · Knex · Puppeteer · Passport OAuth |
+| 🧒 **KidGPT** | ChatGPT-style app made for kids — games, storytelling, Q&A, and parent monitoring | React Native · Expo · NativeWind · Flask · SQLAlchemy · MySQL |
+| 🎉 **Party Tap** | Fully offline pass-the-phone party game — no backend, no internet needed | Flutter · Hive |
+| 🧠 **Personal Space** | Desktop app for personal knowledge management and reflection | Electron · Next.js 16 · React 19 · SQLite |
+| 📦 **Inventory System** | Inventory management with ERP-style features and JWT auth | Laravel · React · MySQL · MUI · Ant Design |
+| 📰 **Presidential Tech Briefing** | Automation that curates a weekly tech-news digest and emails it every Friday | Google Apps Script |
+
+> 🛠️ **In the works:** a multi-channel inventory sync — one master stock count kept in sync across Shopee, Lazada, Facebook, and a storefront.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,bash" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,bootstrap,flutter,electron" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,spring,dotnet,flask" />
+</p>
+
+**Databases & ORM**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma" />
+</p>
+
+**DevOps, Cloud & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,bitbucket,postman,vscode,ps" />
+</p>
+
+**Automation & AI:** n8n · Ollama · pgvector / RAG · Claude Code · Google Apps Script
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Moneydash&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Find Me Elsewhere
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kuysraks)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kuysraks)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/kuysraks)
+
+<div align="center">
+
+### ☕ Like my work?
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/crraquida)
+
+<sub>💡 Always happy to collaborate on web, mobile, or automation projects — let's build something.</sub>
+
+</div>
